@@ -1,7 +1,20 @@
 # local package
 -e .
-
+pandas
+numpy
+scipy
+skit-learn
+matplotlib
+seaborn
+jupyter
+tensorflow
+keras
+torch
 # external requirements
+pytest
+pytest-cov
+pytest-xdist
+pytest-sugar
 click
 Sphinx
 coverage
